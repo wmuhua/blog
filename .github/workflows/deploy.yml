@@ -14,17 +14,16 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      # - name: Setup Hugo | 设置Hexo环境
-      #   uses: peaceiris/actions-hugo@v2
-      #   with:
-      #     hugo-version: "0.81.0"
-      #     extended: true
+      - name: Setup NodeJS | 设置NodeJS环境
+        uses: actions/setup-node@master
+        with:
+          node-version: "14.x"
 
-      # - name: Install | 安装依赖
-      #   run:
-
-      # - name: Build | 构建
-      #   run: hugo
+      - name: Build | 构建
+        run: |
+          npm install
+          npm install hexo-cli -g
+          hexo generate
 
       - name: Deploy to Server | 部署到服务器
         uses: hengkx/ssh-deploy@v1.0.1
