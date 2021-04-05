@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-matery"]
+	path = themes/hexo-theme-matery
+	url = https://github.com/webwanghui/hexo-theme-matery.git
