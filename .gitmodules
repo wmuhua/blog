@@ -1,5 +1,0 @@
-[submodule "themes/hexo-theme-matery"]
-	path = themes/hexo-theme-matery
-	url = https://github.com/wmuhua/hexo-theme-matery.git
-	branch = develop
-
