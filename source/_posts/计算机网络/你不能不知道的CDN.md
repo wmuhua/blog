@@ -1,19 +1,19 @@
 ---
-title: 你不能不知道的CDN1111
-date: 2018-09-07 09:25:00
+title: 你不能不知道的CDN
+date: 2020-02-07 09:25:21
 author: 沐华
-img: /source/images/xxx.jpg
-top: true
-cover: true
+img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/1.jpg
+top: false
+cover: false
 coverImg: /images/1.jpg
 password: 
-toc: false
+toc: true
 mathjax: false
 summary: CDN就是内容分发网络，是构建在现有网络基础之上的智能虚拟网络
-categories: Markdown
+categories: 计算机网络
 tags:
-  - Typora
-  - Markdown
+  - CDN
+  - 计算机网络
 ---
 
 ## CDN的基本概念
@@ -22,11 +22,11 @@ CDN(Content Delivery Network)就是`内容分发网络`，是构建在现有网�
 
 **没有CDN**
 
-![11.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f1edf91141f94e1486b1d93aed532988~tplv-k3u1fbpfcp-watermark.image)
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f1edf91141f94e1486b1d93aed532988~tplv-k3u1fbpfcp-watermark.image)
 
 **有CDN**
 
-![12.jpeg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a5bece213d24efb8874107455338e8c~tplv-k3u1fbpfcp-watermark.image)
+![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3a5bece213d24efb8874107455338e8c~tplv-k3u1fbpfcp-watermark.image)
 
 ## CDN的作用/好处/优缺点
 
