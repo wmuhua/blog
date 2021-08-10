@@ -3,8 +3,8 @@ title: 再不怕被问TCP/IP/UDP
 date: 2020-06-06 02:18:21
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/11.jpg
-top: true
-cover: true
+top: false
+cover: false
 coverImg: /images/1.jpg
 password: 
 toc: false
