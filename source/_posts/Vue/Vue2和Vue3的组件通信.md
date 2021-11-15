@@ -1,6 +1,6 @@
 ---
 title: Vue2和Vue3的组件通信
-date: 2020-06-12 22:39:06
+date: 2020-12-25 19:31:38
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/20.jpg
 top: false

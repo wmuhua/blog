@@ -1,6 +1,6 @@
 ---
 title: Vue2完整生命周期流程
-date: 2020-06-12 22:39:06
+date: 2021-01-02 21:34:30
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/21.jpg
 top: false

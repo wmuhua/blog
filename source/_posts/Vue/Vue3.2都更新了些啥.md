@@ -1,6 +1,6 @@
 ---
 title: Vue3.2都更新了些啥
-date: 2020-06-12 22:39:06
+date: 2020-10-14 00:03:07
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/24.jpg
 top: false
