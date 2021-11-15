@@ -4,7 +4,7 @@ date: 2020-09-12 18:10:11
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/23.jpg
 top: false
-cover: true
+cover: false
 coverImg: /images/1.jpg
 password:
 toc: false

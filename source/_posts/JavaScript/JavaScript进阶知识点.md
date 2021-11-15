@@ -3,7 +3,7 @@ title: JavaScript进阶知识点
 date: 2020-07-31 11:37:47
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/16.jpg
-top: false
+top: true
 cover: true
 coverImg: /images/1.jpg
 password:

@@ -4,7 +4,7 @@ date: 2021-03-25 05:41:01
 author: 沐华
 img: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/blog/27.jpg
 top: false
-cover: true
+cover: false
 coverImg: /images/1.jpg
 password:
 toc: false
